@@ -1,0 +1,8 @@
+ketentuannya adalah harus membuat tampilan dengan  4 custom widget
+
+1.judul(String judul, String link)
+2.kategori(String img, Srting judul)
+3.favorite(String img, String nama, String tempat, num rating)
+4. popular(String tempat, num rating, int harga, String desc)
+
+flaticon 32px
